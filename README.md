@@ -1,4 +1,4 @@
-# PortfolioPilot — Milestone 03: Accessible Frontend Shell
+# Build the accessible frontend shell
 
 PortfolioPilot is a teaching project for a stock portfolio manager. This learning activity asks a coding agent to build the first usable browser interface: a professional dashboard and six navigable pages backed by fixed demo data. The interface is a foundation for later portfolio APIs, market data, and AI features; it does not claim to provide live prices or investment advice.
 
